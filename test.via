@@ -1,0 +1,3 @@
+dyn string txt = "Hello world!";
+
+printf(txt);
